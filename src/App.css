@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+li {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
